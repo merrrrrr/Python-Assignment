@@ -1,0 +1,269 @@
+mer,login,2024-08-12 22:22:32
+mer,login,2024-08-12 22:24:02
+mer,enter purchase order page,2024-08-12 22:24:04
+mer,quit from purchase order page,2024-08-12 22:24:08
+mer,enter purchase order page,2024-08-12 22:24:11
+mer,login,2024-08-12 22:26:05
+mer,login,2024-08-12 22:26:52
+mer,enter purchase order page,2024-08-12 22:26:57
+mer,login,2024-08-12 22:28:57
+mer,enter purchase order page,2024-08-12 22:28:58
+mer,login,2024-08-12 22:30:52
+mer,enter purchase order page,2024-08-12 22:30:54
+mer,place an order,2024-08-12 22:31:37
+mer,login,2024-08-12 22:33:43
+mer,enter purchase order page,2024-08-12 22:33:52
+mer,place an order,2024-08-12 22:35:00
+mer,login,2024-08-12 22:37:14
+mer,enter purchase order page,2024-08-12 22:37:16
+mer,login,2024-08-12 22:41:24
+mer,enter purchase order page,2024-08-12 22:41:25
+mer,login,2024-08-12 22:43:45
+mer,enter purchase order page,2024-08-12 22:43:46
+mer,place an order,2024-08-12 22:44:06
+mer,quit from purchase order page,2024-08-12 22:44:06
+mer,enter purchase order page,2024-08-12 22:45:32
+mer,quit from purchase order page,2024-08-12 22:45:49
+mer,login,2024-08-12 22:48:08
+mer,enter purchase order page,2024-08-12 22:48:10
+mer,quit from purchase order page,2024-08-12 22:49:03
+mer,enter purchase order page,2024-08-12 22:50:35
+mer,login,2024-08-12 22:55:16
+mer,enter purchase order page,2024-08-12 22:55:19
+mer,quit from purchase order page,2024-08-12 22:55:21
+mer,login,2024-08-12 22:59:04
+mer,login,2024-08-12 23:02:23
+mer,enter service order page,2024-08-12 23:02:24
+mer,quit from purchase order page,2024-08-12 23:03:00
+mer,enter service order page,2024-08-12 23:03:08
+mer,login,2024-08-12 23:05:14
+mer,enter service order page,2024-08-12 23:05:42
+mer,quit from purchase order page,2024-08-12 23:07:12
+mer,login,2024-08-12 23:12:23
+mer,enter service order page,2024-08-12 23:12:24
+mer,login,2024-08-12 23:23:19
+mer,enter service order page,2024-08-12 23:23:20
+mer,quit from purchase order page,2024-08-12 23:23:30
+mer,enter service order page,2024-08-12 23:23:34
+mer,place a repair order,2024-08-12 23:23:55
+mer,quit from purchase order page,2024-08-12 23:23:55
+mer,login,2024-08-12 23:25:52
+mer,enter service order page,2024-08-12 23:25:53
+mer,place a repair order,2024-08-12 23:25:56
+mer,quit from purchase order page,2024-08-12 23:25:56
+mer,login,2024-08-12 23:26:47
+mer,enter service order page,2024-08-12 23:26:48
+mer,place a repair order,2024-08-12 23:26:50
+mer,quit from purchase order page,2024-08-12 23:26:50
+mer,login,2024-08-12 23:27:32
+mer,enter service order page,2024-08-12 23:27:34
+mer,place a repair order,2024-08-12 23:27:35
+mer,quit from purchase order page,2024-08-12 23:27:35
+mer,login,2024-08-12 23:29:17
+mer,enter service order page,2024-08-12 23:29:19
+mer,place a repair order,2024-08-12 23:29:23
+mer,quit from purchase order page,2024-08-12 23:29:23
+mer,login,2024-08-12 23:30:51
+mer,enter service order page,2024-08-12 23:30:54
+mer,place a repair order,2024-08-12 23:30:56
+mer,quit from purchase order page,2024-08-12 23:30:56
+mer,log out,2024-08-12 23:31:08
+mer,login,2024-08-12 23:32:20
+mer,log out,2024-08-12 23:32:22
+mer,login,2024-08-12 23:33:38
+mer,enter service order page,2024-08-12 23:33:39
+mer,quit from purchase order page,2024-08-12 23:33:42
+mer,log out,2024-08-12 23:33:45
+mer,login,2024-08-12 23:37:28
+mer,login,2024-08-12 23:38:15
+mer,login,2024-08-12 23:38:29
+mer,login,2024-08-12 23:41:24
+mer,login,2024-08-12 23:49:23
+mer,enter purchase order page,2024-08-12 23:49:25
+mer,quit from purchase order page,2024-08-12 23:49:30
+mer,login,2024-08-12 23:51:14
+mer,login,2024-08-12 23:54:21
+mer,login,2024-08-12 23:55:56
+mer,login,2024-08-12 23:57:00
+mer,login,2024-08-13 14:21:31
+mer,login,2024-08-13 14:28:38
+mer,login,2024-08-13 14:29:44
+mer,login,2024-08-13 14:30:18
+mer,login,2024-08-13 14:33:14
+mer,login,2024-08-13 17:34:51
+mer,login,2024-08-13 17:35:36
+mer,login,2024-08-13 17:36:04
+mer,enter purchase order page,2024-08-13 17:36:06
+mer,quit from purchase order page,2024-08-13 17:36:16
+mer,login,2024-08-13 21:24:52
+mer,enter purchase order page,2024-08-13 21:24:56
+mer,quit from purchase order page,2024-08-13 21:24:58
+mer,login,2024-08-13 21:25:21
+mer,login,2024-08-13 21:29:31
+mer,login,2024-08-13 21:45:10
+mer,login,2024-08-14 01:00:44
+mer,login,2024-08-14 01:03:07
+mer,login,2024-08-14 01:03:37
+mer,login,2024-08-14 01:05:23
+mer,enter service order page,2024-08-14 01:05:25
+mer,quit from purchase order page,2024-08-14 01:05:32
+mer,login,2024-08-14 01:08:11
+mer,login,2024-08-14 01:15:56
+mer,login,2024-08-14 01:18:02
+mer,login,2024-08-14 15:13:28
+mer,login,2024-08-14 18:10:59
+mer,login,2024-08-14 18:12:22
+mer,login,2024-08-14 18:14:13
+mer,login,2024-08-14 18:15:41
+mer,enter purchase order page,2024-08-14 18:17:52
+mer,login,2024-08-14 18:18:45
+mer,enter purchase order page,2024-08-14 18:18:46
+mer,login,2024-08-14 18:19:33
+mer,enter purchase order page,2024-08-14 18:19:34
+mer,login,2024-08-14 18:20:14
+mer,enter purchase order page,2024-08-14 18:20:14
+mer,login,2024-08-14 18:21:22
+mer,enter purchase order page,2024-08-14 18:21:23
+mer,login,2024-08-14 18:21:32
+mer,enter purchase order page,2024-08-14 18:21:33
+mer,login,2024-08-14 18:21:47
+mer,enter purchase order page,2024-08-14 18:21:52
+mer,place a purchase order,2024-08-14 18:22:20
+mer,quit from purchase order page,2024-08-14 18:22:22
+mer,enter purchase order page,2024-08-14 18:22:26
+mer,place a purchase order,2024-08-14 18:22:55
+mer,quit from purchase order page,2024-08-14 18:22:57
+mer,login,2024-08-14 18:26:25
+mer,enter purchase order page,2024-08-14 18:26:30
+mer,login,2024-08-14 18:34:03
+mer,enter purchase order page,2024-08-14 18:34:05
+mer,place a purchase order,2024-08-14 18:34:16
+mer,quit from purchase order page,2024-08-14 18:34:17
+mer,enter purchase order page,2024-08-14 18:34:19
+mer,place a purchase order,2024-08-14 18:35:40
+mer,quit from purchase order page,2024-08-14 18:35:41
+mer,login,2024-08-14 18:39:14
+mer,enter purchase order page,2024-08-14 18:39:14
+mer,login,2024-08-14 18:41:01
+mer,enter purchase order page,2024-08-14 18:41:02
+mer,login,2024-08-14 18:43:40
+mer,enter purchase order page,2024-08-14 18:43:41
+mer,place a purchase order,2024-08-14 18:44:06
+mer,quit from purchase order page,2024-08-14 18:44:07
+mer,login,2024-08-14 18:44:38
+mer,login,2024-08-14 18:58:58
+mer,login,2024-08-14 20:06:19
+mer,login,2024-08-14 20:06:52
+mer,login,2024-08-14 20:09:51
+mer,enter service order page,2024-08-14 20:09:53
+mer,quit from purchase order page,2024-08-14 20:09:55
+mer,login,2024-08-14 20:11:33
+mer,login,2024-08-14 20:13:13
+mer,login,2024-08-14 20:24:09
+mer,login,2024-08-14 21:22:35
+mer,login,2024-08-14 21:25:48
+mer,login,2024-08-14 21:30:07
+mer,login,2024-08-14 21:39:54
+mer,login,2024-08-14 21:42:09
+mer,login,2024-08-14 21:44:01
+mer,enter service order page,2024-08-14 21:44:10
+mer,quit from purchase order page,2024-08-14 21:44:17
+mer,enter purchase order page,2024-08-14 21:44:21
+mer,quit from purchase order page,2024-08-14 21:45:24
+mer,login,2024-08-14 21:52:17
+mer,log out,2024-08-15 03:19:06
+mer,login,2024-08-15 03:19:43
+mer,login,2024-08-15 16:26:09
+mer,enter purchase order page,2024-08-15 16:26:36
+mer,quit from purchase order page,2024-08-15 16:26:38
+mer,login,2024-08-15 16:27:31
+mer,login,2024-08-15 16:35:20
+mer,login,2024-08-15 20:15:39
+mer,login,2024-08-15 20:26:23
+mer,enter purchase order page,2024-08-15 20:27:32
+mer,quit from purchase order page,2024-08-15 20:27:37
+mer,log out,2024-08-15 20:28:07
+mer,login,2024-08-15 20:34:23
+mer,login,2024-08-15 22:03:55
+mer,login,2024-08-15 22:04:35
+mer,login,2024-08-15 22:05:34
+mer,enter purchase order page,2024-08-15 22:05:41
+mer,place a purchase order,2024-08-15 22:05:55
+mer,quit from purchase order page,2024-08-15 22:05:56
+mer,login,2024-08-15 22:34:01
+mer,log out,2024-08-15 22:34:05
+mer,login,2024-08-15 22:42:29
+mer,enter modify order page,2024-08-15 22:42:59
+mer,login,2024-08-15 22:45:12
+mer,enter purchase order page,2024-08-15 22:45:39
+mer,place a purchase order,2024-08-15 22:46:03
+mer,quit from purchase order page,2024-08-15 22:46:04
+mer,login,2024-08-15 22:46:27
+mer,enter purchase order page,2024-08-15 22:46:29
+mer,place a purchase order,2024-08-15 22:46:59
+mer,quit from purchase order page,2024-08-15 22:47:00
+mer,login,2024-08-16 01:31:51
+mer,enter collect order page,2024-08-16 01:31:54
+mer,login,2024-08-16 01:33:20
+mer,enter collect order page,2024-08-16 01:33:26
+mer,collect purchase order,2024-08-16 01:33:29
+mer,quit from collect order page,2024-08-16 01:33:29
+mer,login,2024-08-16 02:29:05
+mer,enter reports page,2024-08-16 02:29:07
+mer,check reports,2024-08-16 02:29:07
+mer,login,2024-08-16 08:32:18
+mer,enter purchase order page,2024-08-16 08:32:30
+mer,place a purchase order,2024-08-16 08:33:24
+mer,quit from purchase order page,2024-08-16 08:33:26
+mer,enter purchase order page,2024-08-16 08:34:50
+mer,place a purchase order,2024-08-16 08:35:01
+mer,quit from purchase order page,2024-08-16 08:35:02
+mer,login,2024-08-16 08:38:16
+mer,enter purchase order page,2024-08-16 08:38:18
+mer,quit from purchase order page,2024-08-16 08:38:22
+mer,login,2024-08-16 08:55:08
+mer,enter purchase order page,2024-08-16 08:55:09
+mervinooi,login,2024-12-29 02:15:50
+mervinooi,enter purchase order page,2024-12-29 02:25:26
+mervinooi,login,2024-12-29 02:26:40
+mervinooi,enter purchase order page,2024-12-29 02:26:41
+mervinooi,place a purchase order,2024-12-29 02:26:53
+mervinooi,quit from purchase order page,2024-12-29 02:26:54
+mervinooi,login,2024-12-29 02:31:20
+mervinooi,enter purchase order page,2024-12-29 02:31:31
+mervinooi,quit from purchase order page,2024-12-29 02:31:41
+mervinooi,login,2024-12-29 02:37:51
+mervinooi,enter purchase order page,2024-12-29 02:39:49
+mervinooi,place a purchase order,2024-12-29 02:40:20
+mervinooi,quit from purchase order page,2024-12-29 02:40:22
+mervinooi,login,2024-12-29 02:44:56
+mervinooi,enter purchase order page,2024-12-29 02:44:57
+mervinooi,place a purchase order,2024-12-29 02:45:07
+mervinooi,quit from purchase order page,2024-12-29 02:45:08
+mervinooi,enter order payment page,2024-12-29 02:46:22
+mervinooi,login,2024-12-29 02:46:50
+mervinooi,enter order payment page,2024-12-29 02:46:57
+mervinooi,make payment for purchase order,2024-12-29 02:47:08
+mervinooi,login,2024-12-29 02:53:17
+mervinooi,enter order payment page,2024-12-29 02:53:20
+mervinooi,make payment for purchase order,2024-12-29 02:53:29
+mervinooi,login,2024-12-29 02:59:07
+mervinooi,enter purchase order page,2024-12-29 02:59:09
+mervinooi,place a purchase order,2024-12-29 02:59:17
+mervinooi,quit from purchase order page,2024-12-29 02:59:19
+mervinooi,enter order payment page,2024-12-29 02:59:21
+mervinooi,login,2024-12-29 03:04:39
+mervinooi,enter purchase order page,2024-12-29 03:04:49
+mervinooi,place a purchase order,2024-12-29 03:05:07
+mervinooi,quit from purchase order page,2024-12-29 03:05:09
+mervinooi,enter order payment page,2024-12-29 03:05:11
+mervinooi,make payment for purchase order,2024-12-29 03:05:26
+mervinooi,login,2024-12-29 03:07:47
+mervinooi,enter order payment page,2024-12-29 03:07:51
+mervinooi,make payment for purchase order,2024-12-29 03:07:57
+mervinooi,login,2024-12-29 03:08:52
+mervinooi,enter order payment page,2024-12-29 03:08:54
+mervinooi,make payment for purchase order,2024-12-29 03:08:58
+mervinooi,login,2024-12-29 03:09:52
+mervinooi,enter order payment page,2024-12-29 03:09:55
+mervinooi,make payment for purchase order,2024-12-29 03:10:00

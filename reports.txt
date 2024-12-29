@@ -1,0 +1,104 @@
+
+User with username : User1 has logged in on 2024-08-13 15:32:51
+User with username : User1 has logged in on 2024-08-14 09:31:14
+User with username : User1 has checked status of OrderID O082 on 2024-08-14 09:31:43
+User with username : User1 has logged in on 2024-08-14 09:34:19
+User with username : User1 has made purchase order with Order ID O164 on 2024-08-14 09:34:52
+User with username : User1 has logged in on 2024-08-14 09:48:34
+User with username : User1 has made purchase order with Order ID O542 on 2024-08-14 09:48:59
+User with username : User1 has logged in on 2024-08-14 10:06:38
+User with username : User1 has logged in on 2024-08-14 10:14:27
+User with username : User1 has logged in on 2024-08-14 10:17:23
+User with username : User1 has logged in on 2024-08-14 10:29:46
+User with username : User1 has logged in on 2024-08-14 10:30:33
+User with username : User1 has logged in on 2024-08-14 11:47:19
+User with username : User1 has logged in on 2024-08-14 11:47:50
+User with username : User1 has logged in on 2024-08-14 11:59:33
+User with username : User1 has made purchase order with Order ID O393 on 2024-08-14 12:00:19
+User with username : User1 has added item to O393 on 2024-08-14 12:01:50
+User with username : User1 has removed item from O393 on 2024-08-14 12:02:17
+User with username : User1 has logged in on 2024-08-14 12:12:16
+User with username : User1 has logged in on 2024-08-14 12:12:49
+User with username : User1 has logged in on 2024-08-14 12:14:16
+User with username : User1 has logged in on 2024-08-14 12:15:31
+User with username : User1 has logged in on 2024-08-14 12:17:22
+User with username : User1 has logged in on 2024-08-14 12:17:52
+User with username : User1 has logged in on 2024-08-14 21:07:28
+User with username : User1 has logged in on 2024-08-14 21:08:31
+User with username : User1 has logged in on 2024-08-14 21:10:17
+User with username : User2 has logged in on 2024-08-14 21:11:38
+User with username : User1 has logged in on 2024-08-14 21:15:07
+User with username : User1 has logged in on 2024-08-14 21:15:55
+User with username : User1 has logged in on 2024-08-14 21:16:50
+User with username : User2 has logged in on 2024-08-14 21:17:21
+User with username : User1 has logged in on 2024-08-14 21:17:41
+User with username : User1 has logged in on 2024-08-14 21:21:00
+User with username : User3 has logged in on 2024-08-14 21:23:45
+User with username : User1 has logged in on 2024-08-14 21:24:51
+User with username : User2 has logged in on 2024-08-14 21:31:29
+User with username : User1 has logged in on 2024-08-14 21:32:13
+User with username : User1 has logged in on 2024-08-14 21:33:21
+User with username : User1 has made purchase order with Order ID O924 on 2024-08-14 21:33:40
+User with username : User1 has logged in on 2024-08-14 21:34:42
+User with username : User1 has checked all stock on 2024-08-14 21:34:48
+User with username : User1 has checked specific stock on 2024-08-14 21:35:08
+User with username : User1 has checked specific stock on 2024-08-14 21:35:09
+User with username : User1 has checked specific stock on 2024-08-14 21:35:10
+User with username : User1 has logged in on 2024-08-14 21:36:25
+User with username : User1 has updated stock of Logitech MK215 Wireless Keyboard and Mouse Combo on 2024-08-14 21:36:44
+User with username : User1 has logged in on 2024-08-14 21:39:54
+User with username : User1 has logged in on 2024-08-14 21:42:12
+User with username : User1 has logged in on 2024-08-14 21:43:19
+User with username : User1 has updated stock of Kingston HyperX FURY Ram DDR4 8GB on 2024-08-14 21:43:37
+User with username : User1 has logged in on 2024-08-14 21:44:37
+User with username : User1 has logged in on 2024-08-14 21:45:10
+User with username : User1 has logged in on 2024-08-15 00:12:57
+User with username : User1 has logged in on 2024-08-15 00:13:46
+User with username : User1 has logged in on 2024-08-15 00:14:16
+User with username : User1 has logged in on 2024-08-15 00:14:42
+User with username : User1 has checked all stock on 2024-08-15 00:14:48
+User with username : User1 has logged in on 2024-08-15 00:16:40
+User with username : User1 has checked all stock on 2024-08-15 00:16:46
+User with username : User1 has logged in on 2024-08-15 20:33:33
+User with username : User1 has logged in on 2024-08-16 00:21:49
+User with username : User1 has logged in on 2024-08-16 16:35:30
+User with username : User1 has logged in on 2024-08-16 16:46:17
+User with username : User1 has added item to O924 on 2024-08-16 17:33:24
+User with username : User1 has added item to O924 on 2024-08-16 17:40:20
+User with username : User1 has logged in on 2024-08-16 18:18:30
+User with username : User1 has logged in on 2024-08-16 20:09:24
+User with username : User1 has logged in on 2024-08-16 22:31:06
+User with username : User1 has logged in on 2024-08-16 23:19:06
+User with username : User1 has updated stock of Samsung 970 EVO PLUS M.2 2280 PCIe NVMe 1TB SSD on 2024-08-16 23:19:25
+User with username : User1 has logged in on 2024-08-16 23:39:24
+User with username : User1 has logged in on 2024-08-17 00:06:53
+User with username : User1 has removed item from O924 on 2024-08-17 00:07:36
+User with username : User1 has logged in on 2024-08-17 00:47:07
+User with username : User1 has logged in on 2024-08-17 00:49:12
+User with username : User1 has logged in on 2024-08-17 01:06:37
+User with username : User1 has logged in on 2024-08-17 01:09:22
+User with username : User1 has made purchase order with Order ID O589 on 2024-08-17 01:14:02
+User with username : User1 has checked all stock on 2024-08-17 01:17:25
+User with username : User1 has checked specific stock on 2024-08-17 01:18:28
+User with username : User1 has updated stock of Pre-built PC 1 on 2024-08-17 01:19:18
+User with username : User1 has updated stock of AMD Ryzen 9 7950X on 2024-08-17 01:20:00
+User with username : User1 has logged in on 2024-08-17 01:22:17
+User with username : User1 has checked status of OrderID O393 on 2024-08-17 01:23:43
+User with username : User1 has logged in on 2024-08-17 01:26:04
+User with username : User1 has logged in on 2024-08-17 01:26:26
+User with username : User1 has logged in on 2024-08-17 01:28:50
+User with username : User1 has added item to O589 on 2024-08-17 01:29:19
+User with username : User1 has logged in on 2024-08-17 01:30:54
+User with username : User1 has logged in on 2024-08-17 01:32:22
+User with username : User1 has logged in on 2024-08-17 01:32:41
+User with username : User1 has removed item from O924 on 2024-08-17 01:33:29
+User with username : User1 has logged in on 2024-08-17 01:33:53
+User with username : User1 has removed item from O924 on 2024-08-17 01:34:36
+User with username : User1 has logged in on 2024-08-17 01:36:06
+User with username : User1 has logged in on 2024-08-17 01:37:45
+User with username : User1 has cancelled OrderID O924 on 2024-08-17 01:39:54
+User with username : User1 has logged in on 2024-08-17 01:41:54
+User with username : User1 has logged in on 2024-08-17 01:44:43
+User with username : User1 has logged in on 2024-08-17 02:14:39
+User with username : User1 has made purchase order with Order ID O296 on 2024-08-17 02:15:12
+User with username : User1 has made purchase order with Order ID O422 on 2024-08-17 02:15:40

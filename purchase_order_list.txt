@@ -1,0 +1,15 @@
+PO1,mer,2024-08-14,[['CPU2', 'AMD Ryzen 7 7700X', '1659.00', 15]],24885.0,unpaid
+PO2,mer,2024-08-14,[['CPU1', 'AMD Ryzen 9 7950X', '2699.00', 1], ['GPU1', 'GIGABYTE GeForce RTX 4090', '10399.00', 1]],13098.0,unpaid
+PO3,mer,2024-08-14,[['SSD1', 'Samsung 970 EVO PLUS M.2 2280 PCIe NVMe 1TB SSD', '387.00', 2], ['RAM1', 'Kingston HyperX FURY Ram DDR4 8GB', '55.00', 4], ['MON1', 'Samsung 22" Essential Monitor S3 S31C', '329.00', 1]],1323.0,unpaid
+PO4,mer,2024-08-14,[['SSD1', 'Samsung 970 EVO PLUS M.2 2280 PCIe NVMe 1TB SSD', '387.00', 2], ['RAM1', 'Kingston HyperX FURY Ram DDR4 8GB', '55.00', 4], ['MON1', 'Samsung 22" Essential Monitor S3 S31C', '329.00', 1]],1323.0,unpaid
+PO3,mer,2024-08-15 17:08:40,[['SSD1', 'Samsung 970 EVO PLUS M.2 2280 PCIe NVMe 1TB SSD', '387.00', 2], ['RAM1', 'Kingston HyperX FURY Ram DDR4 8GB', '55.00', 4], ['MON1', 'Samsung 22" Essential Monitor S3 S31C', '329.00', 1]],1323.0,cancelled
+PO2,mer,2024-08-15 22:03:59,[['CPU1', 'AMD Ryzen 9 7950X', '2699.00', 1], ['GPU1', 'GIGABYTE GeForce RTX 4090', '10399.00', 1]],13098.0,paid
+PO2,mer,2024-08-15 22:03:59,[['CPU1', 'AMD Ryzen 9 7950X', '2699.00', 1], ['GPU1', 'GIGABYTE GeForce RTX 4090', '10399.00', 1]],13098.0,ready to collect
+PO4,mer,2024-08-15 22:05:03,[['SSD1', 'Samsung 970 EVO PLUS M.2 2280 PCIe NVMe 1TB SSD', '387.00', 2], ['RAM1', 'Kingston HyperX FURY Ram DDR4 8GB', '55.00', 4], ['MON1', 'Samsung 22" Essential Monitor S3 S31C', '329.00', 1]],1323.0,paid
+PO4,mer,2024-08-15 22:05:03,[['SSD1', 'Samsung 970 EVO PLUS M.2 2280 PCIe NVMe 1TB SSD', '387.00', 2], ['RAM1', 'Kingston HyperX FURY Ram DDR4 8GB', '55.00', 4], ['MON1', 'Samsung 22" Essential Monitor S3 S31C', '329.00', 1]],1323.0,ready to collect
+PO5,mer,2024-08-15 22:08:22,[['CPU1', 'AMD Ryzen 9 6950X', '2699.0', 1]],2699.0,unpaid
+PO6,mer,2024-08-15 22:10:45,[['CPU1', 'AMD Ryzen 9 6950X', '2699.0', 2]],5398.0,unpaid
+PO7,mer,2024-08-15 23:58:17,[['CPU1', 'AMD Ryzen 9 6950X', '2699.0', 1], ['GPU1', 'GIGABYTE GeForce RTX 4080', '8388.0', 1]],11087.0,unpaid
+PO8,mervinooi,2024-12-29 03:05:07,[['CPU1', 'AMD Ryzen 9 6950X', '2699.0', 1], ['GPU1', 'GIGABYTE GeForce RTX 4080', '8388.0', 1]],11087.0,unpaid
+PO8,mervinooi,2024-12-29 03:10:00,[['CPU1', 'AMD Ryzen 9 6950X', '2699.0', 1], ['GPU1', 'GIGABYTE GeForce RTX 4080', '8388.0', 1]],11087.0,paid
+PO8,mervinooi,2024-12-29 03:10:00,[['CPU1', 'AMD Ryzen 9 6950X', '2699.0', 1], ['GPU1', 'GIGABYTE GeForce RTX 4080', '8388.0', 1]],11087.0,ready to collect
